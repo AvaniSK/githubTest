@@ -9,9 +9,9 @@ public class test {
         System.out.println("Hello world");
     }
 
-    public static void displayNames()
+    public static String displayNames()
     {
-        string a = "avani";
+        String a = "avani";
         return a;
     }
 }
